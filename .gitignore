@@ -10,6 +10,9 @@ PROGRESS.md
 .Rproj.user/
 *.Rcheck/
 *.tar.gz
+*.Rout
+Rplots.pdf
+rsconnect/
 
 # Python local state
 __pycache__/
